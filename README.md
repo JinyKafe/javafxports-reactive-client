@@ -11,9 +11,7 @@ Instructions
 ------------
 To execute the sample, do as follows:
 
+![](doc/screenshot.gif)
+
 * Desktop (Requires JDK 8, 9 or 10)
 > Just run it from your IDE or from command line: `./gradlew run`
-* Android (Requires JDK 8, 9 or 10)
-> Connect your Android device and run `./gradlew androidInstall`
-* iOS (Requires JDK 9 or 10)
-> Connect your iOS device and run `./gradlew launchIOSDevice`
